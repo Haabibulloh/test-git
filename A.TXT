@@ -1,2 +1,2 @@
 Bu A fayl git uchun ochildi.
-O'zgartirildi.
+O'zgartirildi. Github server tamondan.
